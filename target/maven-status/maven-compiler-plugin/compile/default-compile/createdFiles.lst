@@ -1,0 +1,9 @@
+com\springmvc\config\AppConfig.class
+com\springmvc\controller\PersonController.class
+com\springmvc\service\IPersonService.class
+com\springmvc\config\DBConfig.class
+com\springmvc\entity\Person.class
+com\springmvc\config\WebAppInitializer.class
+com\springmvc\service\PersonService.class
+com\springmvc\dao\PersonDAO.class
+com\springmvc\dao\IPersonDAO.class
